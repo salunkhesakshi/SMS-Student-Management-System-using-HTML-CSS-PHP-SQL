@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(250, 237, 237);
+    font-family: cursive,Open Sans , Arial, sans-serif;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main{
+    font-size:30px;
+}
+.adminconnectcontainer{
+    line-height: 20px;
+}
+.admincontainer{
+    margin-left:auto;
+    margin-right:auto ;
+    margin-top:5%;
+    margin-bottom: 10%;
+}
+.indexcontainer{
+    line-height: 10px;
+    margin-left:40%;
+    margin-right:auto ;
+    margin-top:10%;
+    margin-bottom: 15%;
+}
+.adminlogincontainer{
+    line-height: 25px;
+    max-width: 300px;
+    margin-left:40%;
+    margin-right:auto ;
+    margin-top:10%;
+    margin-bottom: 15%;
+}
+.studentlogincontainer{
+    line-height: 25px;
+    max-width: 300px;
+    margin-left:37%;
+    margin-right:auto ;
+    margin-top:10%;
+    margin-bottom: 15%;
+}
+.logincontainer{
+    max-width: 300px;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+ h1 {
+     padding: 10px;
+     margin:auto;
+     color:deeppink;
+ }
+h2 {
+    font-weight: 20px;
+}
+h3{
+    font-size: 10px;
+    padding: 10px;
+}
+h4{
+    color:#292626;
+    font-size: 16px;
+    align: "center";
+}
+.buttons{
+    font-size: 20px;
+    background-color: rgb(218, 221, 223);
+    color:black;
+}
+.btn btn-primary{
+    font-size: 200px;
+}
+ .image{
+    position: absolute;
+	top: 22vh;
+	left: 20vw;
+	z-index: -1;
+	opacity: 1;
+	height: 87%;
+ }
+.nav-link {
+    line-height: 20px;
+    color: #2a444d;
+    font-size: 22px;
+    text-decoration: none;
+    align-items: center;
+}
+ img { max-width: 100%; }
+
+ legend{
+     text-decoration: underline;
+     font-size:30px;
+     text-align: center;
+     font-style:oblique;
+     color:rgb(0, 0, 0);
+ }
+ 
+ label{
+     text-align:left;
+     font-size:15px;
+     color:rgb(0, 0, 0); 
+ }
+
+ .btn:hover { color:red;}
+
+.contact-link{
+      color:rgb(47, 62, 70);
+  }
+.contact-link:hover{color:rgb(164, 165, 165);}
+  
+.footer-link{
+    color:rgb(47, 62, 70);
+  }
+.footer-link:hover{color:rgb(172, 170, 170);}
+
+.footer-text{
+      text-align: center;
+  }
+.admin-connect{
+    margin:100px;
+}
+p {
+    padding:10px;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 0.5;
+  }
+  .section-header{
+      font-size:15px;
+  }
+ 
